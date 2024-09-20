@@ -8,6 +8,7 @@
 	width: 400px;
 }
 .header-red {
+	width: 400px;
 	height: 100px;
 	background: #ff0000;
 }
@@ -17,7 +18,10 @@
 	height: 250px;
 	background: #00ff51;
 }
-
+.content-right {
+  width: 250px;
+	float:right
+}
 .right {
 	float: left;
 	width: 150px;
@@ -42,6 +46,7 @@
 	background: #8c2727;
 }
 .footer-yellow {
+	width: 400px;
 	height: 100px;
 	background: #fff700;
 }
